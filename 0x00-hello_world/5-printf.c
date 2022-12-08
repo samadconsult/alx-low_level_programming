@@ -2,11 +2,11 @@
 
 /**
  * main-Entry point
- * Description use printf
- * Return: Alway 0 (Success)
+ * Description: use printf
+ * Return: Always 0 (Success)
  */
 int main (void)
 {
-printf("with proper granmer, but the outcome i a piec of art,\n");
-retun(0);
+   printf("with proper grammar, but the outcome is a piece of art,\n");
+return(0);
 }
